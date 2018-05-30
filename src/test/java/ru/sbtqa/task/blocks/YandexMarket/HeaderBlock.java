@@ -1,4 +1,4 @@
-package ru.sbtqa.tag.pagefactoryexample.blocks.YandexMarket;
+package ru.sbtqa.task.blocks.YandexMarket;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.support.FindBy;

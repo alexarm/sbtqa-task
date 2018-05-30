@@ -1,4 +1,4 @@
-package ru.sbtqa.tag.pagefactoryexample.elements.YandexMarket;
+package ru.sbtqa.task.elements.YandexMarket;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

@@ -1,4 +1,4 @@
-package ru.sbtqa.tag.pagefactoryexample;
+package ru.sbtqa.task;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
